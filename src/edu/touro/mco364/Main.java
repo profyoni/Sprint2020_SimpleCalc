@@ -26,7 +26,6 @@ class Calc2 extends JFrame {
         add(timesButton);
         add(divideButton);
 
-
         add(input1);
         add(input2);
         add(result);
