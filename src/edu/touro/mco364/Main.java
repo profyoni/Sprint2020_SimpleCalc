@@ -82,6 +82,6 @@ class Calc2 extends JFrame {
 public class Main {
 
     public static void main(String[] args) {
-	    new Calc2();
+	    new GraphicFrame();
     }
 }
